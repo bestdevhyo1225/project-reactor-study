@@ -1,4 +1,4 @@
-# Reactor Study
+# Project Reactor Study
 
 - [x] Publisher, Subscriber, Subscription 구현체 직접 만들기
 
